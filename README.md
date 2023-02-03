@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I am Sayalee Damle from India, and I do projects on machine learning, statistics, database management and much more. I really enjoy working and learning new frameworks in Python. 
+
+[![Sayalee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayaleedamle)](https://github.com/sayaleedamle/github-readme-stats)
+
