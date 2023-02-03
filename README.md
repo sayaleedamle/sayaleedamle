@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, Sayalee Damle
+### Hi there 👋, I'm Sayalee Damle
 #### Data Science and ML
 Hi! I am Sayalee Damle from India, and I do projects on machine learning, statistics, database management and much more. I really enjoy working and learning new frameworks in Python.
 
@@ -18,4 +18,4 @@ Skills: PYTHON / R / SQL
 
 
 
-[
+
