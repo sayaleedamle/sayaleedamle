@@ -1,21 +1,21 @@
-### Hi there 👋
 
-<!--
-**sayaleedamle/sayaleedamle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, Sayalee Damle
+#### Data Science and ML
+Hi! I am Sayalee Damle from India, and I do projects on machine learning, statistics, database management and much more. I really enjoy working and learning new frameworks in Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON / R / SQL 
 
-Hi! I am Sayalee Damle from India, and I do projects on machine learning, statistics, database management and much more. I really enjoy working and learning new frameworks in Python. 
+- 🌱 I’m currently learning deep learning, bioinformatics, cloud computing 
+- 📫 How to reach me: damlesayalee@gmail.com 
 
-[![Sayalee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayaleedamle)](https://github.com/sayaleedamle/github-readme-stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayaleedamle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayaleedamle//)  
+
+
+
+
+
+
+
+[
