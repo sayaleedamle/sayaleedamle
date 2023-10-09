@@ -7,7 +7,7 @@ Hi! I am Sayalee Damle! I do projects on Django, database management, machine le
 
 Skills: PYTHON / SQL / Django  
 
-- 🌱 I’m currently learning generative AI using Langchain
+- 🌱 I’m currently learning AI using Langchain
 - 📫 How to reach me: damlesayalee@gmail.com 
 
 
