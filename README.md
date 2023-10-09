@@ -1,12 +1,13 @@
 
 
 ### Hi there 👋, I'm Sayalee Damle
-#### Data Science and ML
-Hi! I am Sayalee Damle from India, and I do projects on machine learning, statistics, database management and much more. I really enjoy working and learning new frameworks in Python.
+#### Software Engineering & AI Intern
 
-Skills: PYTHON / R / SQL 
+Hi! I am Sayalee Damle, I do projects on Django, database management, machine learning, statistics and much more. I really enjoy working and learning new frameworks in Python.
 
-- 🌱 I’m currently learning deep learning, bioinformatics, cloud computing 
+Skills: PYTHON / SQL / Django  
+
+- 🌱 I’m currently learning generative AI using Langchain
 - 📫 How to reach me: damlesayalee@gmail.com 
 
 
