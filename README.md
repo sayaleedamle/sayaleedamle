@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Sayalee Damle
 #### Software Engineering & AI Intern
 
-Hi! I am Sayalee Damle, I do projects on Django, database management, machine learning, statistics and much more. I really enjoy working and learning new frameworks in Python.
+Hi! I am Sayalee Damle! I do projects on Django, database management, machine learning, statistics and much more. I really enjoy working and learning new frameworks in Python.
 
 Skills: PYTHON / SQL / Django  
 
