@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Sayalee Damle
+### Hi there I'm Sayalee Damle
 #### Student at UCLA - MASDS
 
 I’m an aspiring Data Scientist/Analyst and AI/ML Engineer with a passion for building intelligent, data-driven solutions. 
