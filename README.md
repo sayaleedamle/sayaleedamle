@@ -1,15 +1,20 @@
 
 
 ### Hi there 👋, I'm Sayalee Damle
-#### Software Engineering & AI Intern
+#### Student at UCLA - MASDS
 
-Hi! I am Sayalee Damle! I do projects on Django, database management, machine learning, statistics and much more. I really enjoy working and learning new frameworks in Python.
+I’m an aspiring Data Scientist/Analyst and AI/ML Engineer with a passion for building intelligent, data-driven solutions. 
 
-Skills: PYTHON / SQL / Django  
+My interests lie at the intersection of statistics, machine learning, and software engineering, where I enjoy transforming raw data into actionable insights and scalable applications.
 
-- 🌱 I’m currently learning AI using Langchain
-- 📫 How to reach me: damlesayalee@gmail.com 
+🚀 What I have worked on:
+Data Science & Analytics – uncovering insights with Python, R, SQL, and Power BI
+Machine Learning & AI – applying models with Scikit-learn, LangChain, and GenAI APIs
+Engineering & Deployment – developing full-stack applications with Django REST, Vue.js, and FastAPI
 
+📂 My projects include AI diagnostic frameworks, GenAI-powered assistants, full-stack web tools, and applied analytics solutions that demonstrate both technical depth and real-world impact. 
+
+📫 Let’s connect: damlesayalee@ucla.edu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayaleedamle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayaleedamle//)  
 
